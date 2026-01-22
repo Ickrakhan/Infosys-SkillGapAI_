@@ -1,0 +1,41 @@
+ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING INTERN
+
+Company: Skill Gap AI Solutions
+Location: Remote
+Duration: 3–6 Months
+
+ABOUT THE ROLE
+We are looking for a highly motivated Artificial Intelligence and Machine Learning Intern to work on
+data-driven and AI-powered solutions. The intern will assist in developing machine learning models,
+analyzing data, and deploying intelligent applications.
+
+RESPONSIBILITIES
+- Collect, clean, and preprocess structured and unstructured data
+- Perform exploratory data analysis (EDA) and data visualization
+- Build and evaluate machine learning models using Python
+- Work with algorithms such as Linear Regression, Logistic Regression, Random Forest, and XGBoost
+- Assist in deploying ML models using Streamlit or similar frameworks
+- Collaborate with team members and document project results
+
+REQUIRED SKILLS
+- Strong programming skills in Python
+- Understanding of Machine Learning concepts and algorithms
+- Experience with NumPy, Pandas, Scikit-learn, Matplotlib, and Seaborn
+- Basic knowledge of Data Structures and Algorithms
+- Familiarity with Git and GitHub
+
+GOOD TO HAVE
+- Knowledge of Deep Learning techniques such as LSTM and Neural Networks
+- Experience with Streamlit or Flask
+- Basic understanding of SQL databases (MySQL, SQLite)
+- Exposure to Natural Language Processing (NLP)
+
+ELIGIBILITY
+- Pursuing B.Tech or B.E in Artificial Intelligence, Machine Learning, Computer Science, or related field
+- Final-year students are encouraged to apply
+
+WHAT YOU WILL GAIN
+- Hands-on experience with real-world AI and ML projects
+- Mentorship from industry professionals
+- Opportunity to work on production-level applications
+- Internship completion certificate
